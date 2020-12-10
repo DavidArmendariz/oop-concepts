@@ -1,4 +1,4 @@
-# OOP Concepts
+# The pillars of OOP
 
 OOP is based on four pillars, concepts that differentiate it from other programming paradigms.
 
